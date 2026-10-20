@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Blog de Exploración</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header id="cabecera-principal">
+        <h1>Bitácora de Viaje</h1>
+        <p>Descubriendo los paisajes de Baja California Sur</p>
+    </header>
+
+    <div class="contenedor-principal">
+        <article class="post">
+            <h2>Avistamiento de Ballenas</h2>
+            <p>El día de hoy visitamos Laguna San Ignacio.</p>
+            <p>Fue una experiencia increíble ver a las ballenas grises tan de cerca.</p>
+            <p>Recomendaciones para el viaje:</p>
+            <ul class="lista-tips">
+                <li>Llevar bloqueador solar</li>
+                <li>Llevar chamarra rompevientos</li>
+                <li><ul>
+                    <li>(Opcional) Cámara resistente al agua</li>
+                </ul></li>
+            </ul>
+            <a href="#">Leer más sobre este viaje</a>
+        </article>
+
+        <article class="post">
+            <h2>Caminata en la Sierra</h2>
+            <p>Explorando los oasis escondidos.</p>
+            <p>El clima estuvo perfecto para caminar varias horas.</p>
+            <a href="#">Ver galería de fotos</a>
+        </article>
+    </div>
+
+</body>
+</html>
